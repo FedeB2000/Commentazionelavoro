@@ -1,0 +1,86 @@
+RECTANGLE TEST
+Define Constructor
+Polygon - constructor - default
+Rectangle - Init Constructor
+Getters/setters test
+Width of rectangle:
+3
+Length of rectangle:
+4
+
+Area and perimeter
+Area of rectangle:
+12
+Perimeter of rectangle:
+14
+
+
+---Rectangle---
+
+Length = 4
+Width = 3
+
+Perimeter = 14
+Area = 12
+
+
+RHOMBUS TEST
+A constructor
+Polygon - constructor - default
+Rhombus - Init Constructor
+Getters/setters test
+Horizontal diagonal of rhombus:
+2
+Vertical diagonal of rhombus:
+4
+
+Test Area and perimeter
+Area of rhombus:
+4
+Perimeter of rhombus:
+8.94427
+
+
+---Rhombus---
+
+Horizontal Diagonal = 2
+Vertical Diagonal = 4
+Side = 2.23607
+
+Perimeter = 8.94427
+Area = 4
+
+
+RIGHT TRIANGLE TEST
+A constructor
+Polygon - constructor - default
+RightTriangle - Init Constructor
+Getters/setters test
+Base of righttriangle:
+5
+Altitude of righttriangle:
+3
+
+ Test Area and perimeter
+Area of righttriangle:
+7.5
+Perimeter of A:
+13.831
+
+
+---RightTriangle---
+
+Base = 5
+Altitude = 3
+Hypotenuse = 5.83095
+
+Perimeter = 13.831
+Area = 7.5
+
+
+RightTriangle - Destructor
+Polygon - destructor
+Rhombus - Destructor
+Polygon - destructor
+Rectangle - Destructor
+Polygon - destructor
